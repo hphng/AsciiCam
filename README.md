@@ -11,6 +11,17 @@ This project started as a learning exercise in basic HTML and CSS during my firs
 
 # Demo
 
+Video:
+
+
+https://github.com/user-attachments/assets/d16041f6-712b-4600-b256-146d8bf33497
+
+
+
+Image:
+
+![Screenshot 2024-08-09 234516](https://github.com/user-attachments/assets/5ac79be7-a271-43cb-80a7-7bb61f18307b)
+
 # Usage
 1. When you open the project in a browser, it will request access to your webcam.
 2. Once access is granted, you'll see the live video feed converted into ASCII art.
